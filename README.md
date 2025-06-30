@@ -1,6 +1,6 @@
 # C_U_L8R
 
-Overview:
+## Overview:
 
 The internet has changed a lot over the last 20 years, becoming a more commercial space ruled by large platforms, aesthetically becoming more homogenous. 
 Early social sites (e.g. MySpace or Tumblr) allowed users to fully customise their profiles, giving them another avenue to express themselves. Blingee was a site that allowed users to create their own custom-made gifs, which would then be posted to other sites. 
@@ -11,9 +11,7 @@ Contrary to popular belief, these sites, and the digital subcultures born within
 Using my archive as a case study, I have created a shareable touchdesigner workflow that allows a user to experience their archive in an alternative way, as an audio-visual presentation. The user just has to plug in a folder with their archive (can be composed of images, gifs, video or http sites) and a .mp3 file, the program remixes the rest. 
 Taking inspiration form internet content and aesthetics of the 2000s, this workflow remixes and reinvigorates an archive, taking it beyond being a folder in a computer and turns it into an experience. 
 
---
-
-Intro: 
+## Intro: 
 
 There’s a misconception about the eternal nature of things uploaded to the internet. In reality, it is a fragile ecosystem that can disappear in an instant. Everyday, a countless amount of “born online” content gets lost. It’s an issue so well established, that a whole practice exists around it. Digital preservation is a formal process, with well defined parameters and initiatives. Institutions such as universities, companies or even governments have invested time and resources into these initiatives. 
 
@@ -34,28 +32,26 @@ When these sites go down, a countless amount of data is gone, and digital subcul
 Being aware that a site could disappear at some point has inspired users to download their sites, creating accidental archives of online subcultures. 
 I tested this with my own blog, archiving the las six years of content into a 4GB folder in my desktop. So what now? 
 
-The workflow: 
+## The workflow: 
 
 Using TouchDesigner, a visual programming language for real-time, interactive multimedia content, I designed a workflow that allows a user to experience their personal archive in an alternative way, as an audio-visual presentation of sorts. The user needs to plug in a folder with their files (which can be composed of images, gifs and video or .http files) and a audio file for the program to work. The program then takes the media from the file and displays it in sync with the selected audio. 
 Since this project is inspired by 2000s digital aesthetics, I added a glitter overlay function, which makes the images resemble Blingees.
 The workflow is highly customisable, allowing the user to tailor the experience. Even the glitter is customisable!
 This workflow remixes the archive, allowing the user to experience it in a different fashion, and transforming it into another experience, rather than just a static folder. The outcome can also be exported as a video, which allows the user to share it further, keeping the archive alive. 
 
-You can view a tutorial on how to use this program here: 
+You can view a tutorial on how to use this program here: https://youtu.be/MY8pdXI6mW4
 
-https://youtu.be/MY8pdXI6mW4
+_The ultra immersive version: https://youtu.be/Qj6FsF5qS2Y_
 
-the ultra immersive version: https://youtu.be/Qj6FsF5qS2Y
-
-Conclusion: 
+## Conclusion: 
 This project has reconnected me with my blog’s archive, though the workflow I’ve seen posts I had made ages ago, and surprised myself by remembering the context go many oof them. 
 This project has also helped me better understand my relationship with the internet and digital social spaces, I see how things are changing and how that change is affecting online social stages, in some cases for the better, in too many cases for the worse. 
 
 I will definitely use this workflow in the future, it’s fun, easy to use and customisable, with a lot of potential to showcase different things. I would like to share it with those who have had similar online experiences to me, so that they may get to relive their archives. 
 
-Bibliography:
+## Bibliography:
 
-Main sources: 
+_Main sources_
 
 Eve, Martin Paul. “EVERYTHING NOT SAVED WILL BE LOST.” Theses on the Metaphors of Digital-Textual History, 1st ed., Stanford University Press, 2024, pp. 251–93. JSTOR, https://doi.org/10.2307/jj.18473022.11.
 
@@ -77,16 +73,9 @@ Individualism in the dead-internet age. Release version, Alienmelon, 2024. alien
 
 Neely-Cohen, Maxwell “Century Scale Storage.” Library Innovation Lab, 2024. lil.law.harvard.edu/century-scale-storage/
 
+--
 
-
-
-
-
-
-
-
-
-Process book: 
+### Notes on the process: 
 
 This project took a lot of twists and turns, chaining a lot of times. It was going to be a 3d visualiser, it was going to be a game, it was going to be an interactive essay, but in the end it became this, a shareable workflow for visualising accidental archives. 
 
