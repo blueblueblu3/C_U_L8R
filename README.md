@@ -20,7 +20,7 @@ The internet has changed a lot over the last 20 years, becoming a more commercia
 Aesthetics, such as blog themes, were an important factor in these digital social settings, since a user could customise their pages to better show who they were and what their interests were.
 Users would not only bond over content, but also through the presentation of that content.
 
-As a case study, I looked at three platforms that encapsulate this “2000s internet” ethos: MySpace, Blingee and Tumblr. 
+As a case study, I looked at three platforms that encapsulate this “2000s internet” ethos: **MySpace, Blingee and Tumblr**
 These three platforms are more blogging adjacent (users have their own personal page that they can customise and post to) and have a high degree of customisability. 
 Blingee was a bit more particular, it provided a specific service for users to create blingees. A blingee is a animated “sticker” that a user would create through layering different images and gifs. Users would then post the blingees they made to their profile. Blingees could be exported as gifs and would be frequently posted to MySpace and Tumblr. The site often organised contests where users would have to create a blingee with a specific theme. Blingees encapsulate a lot of this 2000’s internet aesthetic. 
 
