@@ -39,9 +39,12 @@ Since this project is inspired by 2000s digital aesthetics, I added a glitter ov
 The workflow is highly customisable, allowing the user to tailor the experience. Even the glitter is customisable!
 This workflow remixes the archive, allowing the user to experience it in a different fashion, and transforming it into another experience, rather than just a static folder. The outcome can also be exported as a video, which allows the user to share it further, keeping the archive alive. 
 
-You can view a tutorial on how to use this program here: https://youtu.be/MY8pdXI6mW4
+## Getting started: 
 
-_The ultra immersive version: https://youtu.be/Qj6FsF5qS2Y_
+Download the file _"c u l8r V1"_; this is a TouchDesiger file, so to run it you will need to install it: https://derivative.ca/
+
+You can view a tutorial on how to use _"c u l8r V1"_ here: https://youtu.be/MY8pdXI6mW4
+_For the ultra immersive version: https://youtu.be/Qj6FsF5qS2Y_
 
 ## Conclusion: 
 This project has reconnected me with my blog’s archive, though the workflow I’ve seen posts I had made ages ago, and surprised myself by remembering the context go many oof them. 
