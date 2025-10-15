@@ -41,10 +41,11 @@ This workflow remixes the archive, allowing the user to experience it in a diffe
 
 ## Getting started: 
 
-Download the file _"c u l8r V1"_; this is a TouchDesiger file, so to run it you will need to install it: https://derivative.ca/
+Download the file _"c u l8r V1"_; this is a TouchDesiger file, so to run it you will need to [install it](https://derivative.ca/)
 
-You can view a tutorial on how to use _"c u l8r V1"_ here: https://youtu.be/MY8pdXI6mW4
-_For the ultra immersive version: https://youtu.be/Qj6FsF5qS2Y_
+You can view a tutorial on how to use _"c u l8r V1"_ [here](https://youtu.be/MY8pdXI6mW4)
+
+_[For the ultra immersive version](https://youtu.be/Qj6FsF5qS2Y)_
 
 ## Conclusion: 
 This project has reconnected me with my blog’s archive, though the workflow I’ve seen posts I had made ages ago, and surprised myself by remembering the context go many oof them. 
@@ -58,27 +59,26 @@ _Main sources_
 
 Eve, Martin Paul. “EVERYTHING NOT SAVED WILL BE LOST.” Theses on the Metaphors of Digital-Textual History, 1st ed., Stanford University Press, 2024, pp. 251–93. JSTOR, https://doi.org/10.2307/jj.18473022.11.
 
-Russell, Legacy. Glitch Feminism: A Manifesto. Verso Books, 2020.
+Russell, Legacy. _Glitch Feminism: A Manifesto._ Verso Books, 2020.
 
-Lovink, Geert. Sad By Design: On Platform Nihilism. Pluto Press, 2019.
+Lovink, Geert. _Sad By Design: On Platform Nihilism._ Pluto Press, 2019.
 
-Aranda, Julieta, Kuan Wood, Biran, and Vidokle, Anton, editors. E-flux Journal: The Internet Does Not Exist. Sternberg Press, 2015.
+Aranda, Julieta, Kuan Wood, Biran, and Vidokle, Anton, editors. _E-flux Journal: The Internet Does Not Exist._ Sternberg Press, 2015.
 
-“Strange Æons.” Youtube, youtube.com/@STRANGEONS.  
+“Strange Æons.” Youtube, youtube.com/@STRANGEONS  
 
 tschepe, bileam. “Patreon.” www.patreon.com/c/elekktronaut/posts
 
-“The Consumer Aesthetics Research Institute.” CARI, 2021, cari/institute
+“The Consumer Aesthetics Research Institute.” CARI, 2021, cari.institute/
 
 Olia, “Oral History: Irina Kuleshova.” One Terabyte of Kilobyte Age, 2015, blog.geocities.institute/archives/5348
 
-Individualism in the dead-internet age. Release version, Alienmelon, 2024. alienmelon.itch.io/shovelware
+_Individualism in the dead-internet age._ Release version, Alienmelon, 2024. alienmelon.itch.io/shovelware
 
 Neely-Cohen, Maxwell “Century Scale Storage.” Library Innovation Lab, 2024. lil.law.harvard.edu/century-scale-storage/
 
---
 
-### Notes on the process: 
+## Notes on the process: 
 
 This project took a lot of twists and turns, chaining a lot of times. It was going to be a 3d visualiser, it was going to be a game, it was going to be an interactive essay, but in the end it became this, a shareable workflow for visualising accidental archives. 
 
@@ -94,7 +94,7 @@ For this project, I tried to use Google as little as possible for the research-h
 
 
 
+--
 
 
-
-© 2025 blueblueblu3 
+ ###### © 2025 blueblueblu3 
