@@ -41,7 +41,7 @@ This workflow remixes the archive, allowing the user to experience it in a diffe
 
 ## Getting started: 
 
-Download the file _"c u l8r V1"_; this is a TouchDesiger file, so to run it you will need to [install it](https://derivative.ca/)
+Download the file _"C U L8R V1.toe"_; this is a TouchDesiger file, so to run it you will need to [install it](https://derivative.ca/)
 
 You can view a tutorial on how to use _"c u l8r V1"_ [here](https://youtu.be/MY8pdXI6mW4)
 
