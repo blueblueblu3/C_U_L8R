@@ -87,3 +87,6 @@ I feel like the internet before was a bit more straightforward? Now everyone is 
 Especially over the last year or so I’ve seen a significant deterioration on online content itself. There’s so much AI slop everywhere, and I find myself being more hesitant before interacting with something, especially if it’s art. I stop and think, is this real or AI? The place I’ve noticed it the most is with google search, its so bad now. You need to add reddit to all queries, or use a different search engine. 
 
 For this project, I tried to use Google as little as possible for the research-heavy section. Instead, I used a lot of databases, like JSTOR, RefSeek, Google Scholar, WorldCat or DAE’s library catalogue, I also perused a lot of online archives (like the Internet Archive or archive.today). I had a bit of background knowledge already, but having more academic sources that went more in depth was crucial.
+
+
+###### © 2025 - blueblueblu3
